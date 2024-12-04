@@ -1,5 +1,5 @@
-# CIFAR10-using-CNN-and-ResNet
-How to run the code
+## CIFAR10-using-CNN-and-ResNet
+**# How to run the code:**
 It is an executable Jupyter notebook. You can run it and experiment with the code examples in a couple of ways: using free online resources (recommended) or on your computer.
 
 Option 1: Running using free online resources (1-click, recommended)
