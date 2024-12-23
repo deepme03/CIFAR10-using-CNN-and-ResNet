@@ -22,5 +22,3 @@ Linux: If your laptop/desktop has an NVIDIA GPU (graphics card), make sure you h
 Windows: If your laptop/desktop has an NVIDIA GPU (graphics card), make sure you have installed the NVIDIA CUDA drivers.
 
 macOS: macOS is not compatible with NVIDIA GPUs
-
-If you do not have access to a GPU or aren't sure what it is, don't worry, you can execute all the code just fine without a GPU.
